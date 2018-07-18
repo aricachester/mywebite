@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+ <html>
+       <head>
+       <title> This is Detroit</title>
+       <link rel=" stylesheet" href= "style.css>
+       <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+        </head>
+       <body>
+         <h1>This is Detroit</h1>
+       
+       <p> this is the story all about how we live in...</p>
+       <ol>
+           <li></li>
+        </ol>
+<div>
+
+</div>
+       
+       
+       </body>
+
+
+ </html>
